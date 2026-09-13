@@ -305,6 +305,9 @@ img {
     display: flex;
     justify-content: center;
 }
+.about-image img{
+    border-radius: 7%;
+}
 
 .about-box {
     width: 300px;
